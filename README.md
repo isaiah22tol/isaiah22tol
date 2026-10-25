@@ -11,17 +11,20 @@ System Administration: System information, storage monitoring, and diagnostic to
 Troubleshooting: Windows Event Viewer, Reliability Monitor, SFC, and DISM
 
 💻 IT Portfolio Projects
-Windows Network Security Assessment
+1. Windows Network Security Assessment
+   
 A beginner project exploring network information and basic security checks on my own authorized system or network.
-View Project
+[View Project](https://github.com/isaiah22tol/windows-network-security-assessment)
 
 2. Windows Troubleshooting
+   
 A hands-on project using built-in Windows tools to investigate system events, unexpected shutdowns, and troubleshooting findings.
-View Project
+[View Project](https://github.com/isaiah22tol/windows-troubleshooting)
 
 3. Windows System Information & Health Report
+   
 A system inventory project documenting processor information, memory, storage, uptime, and battery capacity using PowerShell and Windows utilities.
-View Project
+[View Project](https://github.com/isaiah22tol/windows-system-health)
 
 🎯 Current Goals
 Continue developing practical IT and cybersecurity skills
