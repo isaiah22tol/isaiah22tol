@@ -44,6 +44,7 @@ Collected system specifications, processor and memory information, storage usage
 
 **West Georgia Technical College**  
 Cybersecurity — Expected completion: 2027
+
 ---
 
 *This portfolio documents my ongoing learning and hands-on technical development.*
