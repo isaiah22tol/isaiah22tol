@@ -1,3 +1,4 @@
+![Isaiah Tolbert - Cybersecurity Portfolio](Cybersecurity%20Portfolio%20Banner.png)
 # Hi, I'm Isaiah Tolbert 👋
 
 ### Cybersecurity Student | Aspiring IT Professional
