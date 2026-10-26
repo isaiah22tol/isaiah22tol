@@ -42,7 +42,8 @@ Collected system specifications, processor and memory information, storage usage
 
 ## 🎓 Education
 
-**West Georgia Technical College**  
+**West Georgia Technical College**
+
 Cybersecurity — Expected completion: 2027
 
 ---
